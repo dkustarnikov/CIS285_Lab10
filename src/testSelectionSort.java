@@ -55,7 +55,7 @@ public class testSelectionSort {
 			Sortedarr[3] = -7;
 			Sortedarr[4] = -2;
 
-			assertArrayEquals(maxValue, Sortedarr);
+		assertArrayEquals(maxValue, Sortedarr);
 			}
 		public void testMixed(){
 
@@ -78,7 +78,7 @@ public class testSelectionSort {
 			Sortedarr[3] = 0;
 			Sortedarr[4] = 9;
 
-		//	assertArrayEquals(maxValue, Sortedarr);
+			assertArrayEquals(maxValue, Sortedarr);
 
 
 
@@ -102,6 +102,6 @@ public class testSelectionSort {
 				Sortedarr[3] = 0;
 				Sortedarr[4] = 9;
 
-				//assertArrayEquals(maxValue, Sortedarr);
+				assertArrayEquals(maxValue, Sortedarr);
 				}
 			}
